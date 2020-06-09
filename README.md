@@ -11,3 +11,15 @@ In addition to projectiles fired by the opposing player, damage can be inflicted
 Power-up objects located throughout the map:
 - Shields: will project the player from damage one time
 - Star: will change all damage inflicting moving object to the opposite type of the player who got the star object. 
+
+
+Plastic Bag Player Controls:
+- Up, down, left, right arrow keys to move
+- Enter to shoot projectile 
+
+Turtle Player Controls:
+- W, s, a, d, keys to move
+- Q key to shoot projectile 
+
+
+
